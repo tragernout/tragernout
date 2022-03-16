@@ -4,9 +4,9 @@
 ## WHOAMI :call_me_hand:
 - I am currently in my first year at university for a bachelor's degree(Speciality: Information Security) :memo:
 - In free time I'm solve CTF, learning Web Cyber Security, Python and write writeups for tasks in CTF :shield:
-- My ![hackthebox profile](https://app.hackthebox.com/profile/677588) :gem:
-- My ![root-me profile](https://www.root-me.org/tragernout) :fire:
-- My ![certificates from courses](https://github.com/tragernout/Resume) :muscle:
+- My [hackthebox profile](https://app.hackthebox.com/profile/677588) :gem:
+- My [root-me profile](https://www.root-me.org/tragernout) :fire:
+- My [certificates from courses](https://github.com/tragernout/Resume) :muscle:
 - My telegram: https://t.me/tragernout :calling:
 - My discord: tragernout#1322 :telephone_receiver:
 - I hate math :headstone:
