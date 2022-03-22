@@ -7,6 +7,7 @@
 - My [hackthebox profile](https://app.hackthebox.com/profile/677588) :gem:
 - My [root-me profile](https://www.root-me.org/tragernout) :fire:
 - My [certificates from courses](https://github.com/tragernout/Resume) :muscle:
+- My [HackAndGTFO Book](https://tragernout.gitbook.io/hackandgtfo/) :watermelon:
 - My telegram: https://t.me/tragernout :calling:
 - My discord: tragernout#1322 :telephone_receiver:
 - I hate math :headstone:
