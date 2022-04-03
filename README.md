@@ -24,10 +24,11 @@
     - **Installed LEMP(`Linux`, `Nginx`, `MySQL`, `PHP`) and hosted on my Raspberry Pi**
     - **Tried many(25+) Linux distributions**
     - **Solved problems with video card drivers, wifi cards and 999+ problems**
-- **Python** [beginner] :snake:
+- **Python/Flask** [beginner] :snake:
     - **Wrote port scanner**
     - **Wrote URL fuzzer**
     - **Wrote some scripts for brute/fuzz something in CTF**
+    - **Now I'm writing a flask-based website for CTF platform**
 - **Cisco** [begginer] :signal_strength:
     - **Do some Cisco labs in my University(``CiscoPacketTracer``)**
 - **Git** [begginer] :octocat:
